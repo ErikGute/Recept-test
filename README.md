@@ -4,7 +4,7 @@
 
 Both English and Swedish is used as language in this text.
 
-## ingredienser för recept Kladdkaka
+## ingredienser för Kladdkaka recept
 
 smör till formen
 
@@ -23,3 +23,7 @@ ströbröd till formen
 1 1/2 dl vetemjöl
 
 1 krm salt
+
+## Steg för Kladdkaka
+
+1.
